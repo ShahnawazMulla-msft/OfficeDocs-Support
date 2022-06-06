@@ -6,7 +6,7 @@ ms.author: v-maqiu
 manager: dcscontentpm
 audience: ITPro
 ms.topic: troubleshooting
-localization_priority: Normal
+localization_priority: Normall
 ms.custom: 
   - CI 163330
   - Exchange Online
